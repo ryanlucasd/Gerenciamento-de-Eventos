@@ -60,5 +60,5 @@ O diagrama UML do sistema está disponível na pasta `docs`.
 
 ## 8. Autores
 
-- Ryan Lucas
+- Ryan Lucas Silva Dias
 - William de Jesus Fernandes
